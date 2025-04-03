@@ -1,0 +1,46 @@
+# Software Engineer / Senior Software Engineer
+
+## Company
+
+- Spiko is a fintech startup launched in 2023 and based in Paris. Their websites is www.spiko.io.
+- We are building a platform that enables the issuance and seamless access to next-generation financial instruments, which are Internet-native and can be transferred 24/7.
+- Their first products are Money Market Funds approved by the French Financial Markets Authority. These products provide individuals and corporations with easy, programmable access to the risk-free rates in both € and $.
+- 9 months after their public launch, we have more than 1 000 B2B and B2C customers which have together close to $200m on their platform.
+
+## Job desc
+
+They are looking for a full-stack software engineer to join Spiko’s 4-people tech team.
+
+Typical tasks for a full-stack software engineer in the team involve:  
+
+- Building and enhancing their customer-facing application
+- Designing, developing and maintaining the APIs allowing third-party sellers to distribute Spiko’s financial products
+- Implementing external system integrations (for instance: KYC providers, fund administration service providers, depositary banks, anti-money laundering screenings, etc.)
+- Building and maintaining alerting and monitoring systems.
+
+### The stack
+
+- Languages and frameworks: [Typescript](https://www.typescriptlang.org/), [NX](https://nx.dev/), [Effect,](https://effect.website/) [React](https://react.dev/), [Tailwind](https://tailwindui.com/)
+- Infrastructure: [Terraform](https://www.terraform.io/), [AWS](https://aws.amazon.com/), [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/)
+- External services: [Ory](https://www.ory.sh/), [Datadog](https://www.datadoghq.com/)
+
+## Who they are looking for
+
+Requirements:
+
+- ***Software engineer***: You’re a full-stack software engineer with 1+ years of experience, with a background in TS frameworks both for frontend and backend
+- ***Senior software engineer***: You’re a full-stack software engineer with 5+ years of experience, with a strong background in TS frameworks both for frontend and backend
+- You are comfortable working in an English speaking environment
+- You are a curious person eager to learn, with a problem-solving mindset
+
+Nice to have:
+
+- You have an experience in the capital markets, fintech or Web3 industry
+- You have worked on tech projects in highly regulated environments (e.g. fintech, regtech, healthtech, edtech, etc.)
+
+## **What they offer**
+
+- ***Software engineer***: €55k - €70k salary + competitive stock options
+- ***Senior software engineer***: €70k - €90k salary + competitive stock options
+- Remote work policy: the company is based in Paris - you can work remotely up to 2 days per week & 1 full week per month
+- A small and focused team: you will be an early team member who will shape the company and its culture
