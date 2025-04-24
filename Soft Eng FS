@@ -20,7 +20,7 @@ Typical tasks for a full-stack software engineer in the team involve:
 
 ### The stack
 
-- Languages and frameworks: Typescript, [NX], Effect, React, Tailwind
+- Languages and frameworks: Typescript, NX, Effect, React, Tailwind
 - Infrastructure: Terraform, AWS, Kubernetes, Docker, PostgreSQL
 - External services: Ory, Datadog
 
