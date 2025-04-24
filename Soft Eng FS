@@ -20,9 +20,9 @@ Typical tasks for a full-stack software engineer in the team involve:
 
 ### The stack
 
-- Languages and frameworks: [Typescript](https://www.typescriptlang.org/), [NX](https://nx.dev/), [Effect,](https://effect.website/) [React](https://react.dev/), [Tailwind](https://tailwindui.com/)
-- Infrastructure: [Terraform](https://www.terraform.io/), [AWS](https://aws.amazon.com/), [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/)
-- External services: [Ory](https://www.ory.sh/), [Datadog](https://www.datadoghq.com/)
+- Languages and frameworks: Typescript, [NX], Effect, React, Tailwind
+- Infrastructure: Terraform, AWS, Kubernetes, Docker, PostgreSQL
+- External services: Ory, Datadog
 
 ## Who they are looking for
 
